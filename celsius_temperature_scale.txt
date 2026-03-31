@@ -1,0 +1,5 @@
+The Celsius temperature scale, also known as centigrade, is a metric scale for measuring temperature. It is based on the freezing point of water at 0 degrees Celsius (°C) and the boiling point at 100 degrees Celsius (°C) at standard atmospheric pressure.
+
+The scale was developed by the Swedish astronomer Anders Celsius in 1742. It is widely used around the world, especially in scientific contexts and in most countries for everyday temperature measurements.
+
+The Celsius scale is part of the metric system and is used in most countries, making it an essential standard for temperature measurement. It is particularly useful in weather forecasts, cooking, and scientific research.
