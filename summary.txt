@@ -1,0 +1,3 @@
+# Project Summary
+
+This project is designed to demonstrate basic functionalities of a repository, including file creation, reading, and issue management.
